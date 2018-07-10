@@ -15,3 +15,6 @@
 * 最新版本的jQuery
 * 大多数现代浏览器都支持HTML5（inputs和FileReader AP），CSS3和jQuery。对于IE浏览器，必须是IE10以上的版本。IE9及以下的版本会回退为普通的文件上传组件，并且不支持选择多个文件和HTML 5 FileReader API。
 * AJAX上传需要浏览器支持HTML5 FormData和XHR2 (XMLHttpRequest 2)。大多数现代浏览器都支持FormData和XHR2。在不支持这些特性的浏览器中将会回退为普通的文件上传组件。
+
+## 官方仓库：
+* https://github.com/kartik-v/bootstrap-fileinput
